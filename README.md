@@ -45,6 +45,13 @@ A browser extension wallet that:
 3. **Phase 3: Swaps & NFTs** - Token swaps, cross-chain bridges, NFT display.
 4. **Phase 4: Mobile & Ecosystem** - Mobile app, dApp SDK, governance token.
 
+## Monetization
+B-Wallet will sustain development via:
+- **Freemium**: Free core features, premium upgrades ($5/year).
+- **Swap Fees**: 0.2% on in-wallet trades.
+- **Partnerships**: Licensing to dApps and businesses.
+- **Donations**: Support us at `0xYourEthAddress` (ONT donations welcome too!).
+
 ## Funding Needs
 To accelerate B-Wallet’s development and deliver a polished product, we’re seeking:
 - **Funding**: Cover Chrome Web Store fee, dev tools (e.g., IDE subscriptions), and initial testnet funding (e.g., server costs for custom nodes).

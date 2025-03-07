@@ -50,7 +50,7 @@ B-Wallet will sustain development via:
 - **Freemium**: Free core features, premium upgrades ($5/year).
 - **Swap Fees**: 0.2% on in-wallet trades.
 - **Partnerships**: Licensing to dApps and businesses.
-- **Donations**: Support us at `0xYourEthAddress` (ONT donations welcome too!).
+- **Donations**: TBD
 
 ## Funding Needs
 To accelerate B-Wallet’s development and deliver a polished product, we’re seeking:

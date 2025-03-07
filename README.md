@@ -9,7 +9,7 @@ Web3 promises decentralization, but users still wrestle with clunky authenticati
 A browser extension wallet that:
 - ✅ **Non-Custodial**: Users own their private keys and mnemonic phrases—no third-party trust required.
 - ✅ **Ontology DID Authentication**: Password-free logins via decentralized identity, with customizable data-sharing (e.g., email, address).
-- ✅ **Multi-Chain Support**: ONT, ETH, BNB, USDT, ADA at launch, with portfolio views and NFT storage.
+- ✅ **Multi-Chain Support**: ONT, ONG, And all Ontology Native tokens, ETH, BNB, USDT, ADA at launch, with portfolio views and NFT storage.
 - ✅ **Testnet Playground**: Toggle between mainnet and testnets (e.g., Ontology Polaris, Ethereum Goerli) with built-in faucets.
 - ✅ **Swaps & Bridges**: In-wallet token swaps (via DEX aggregators) and cross-chain bridging (e.g., Wormhole).
 - ✅ **Secure Syncing**: Encrypted multi-device preferences via IPFS/Arweave.

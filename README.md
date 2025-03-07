@@ -47,9 +47,9 @@ A browser extension wallet that:
 
 ## Funding Needs
 To accelerate B-Wallet’s development and deliver a polished product, we’re seeking:
-- **$500-$1,000**: Cover Chrome Web Store fee ($5), dev tools (e.g., IDE subscriptions), and initial testnet funding (e.g., server costs for custom nodes).
+- **Funding**: Cover Chrome Web Store fee, dev tools (e.g., IDE subscriptions), and initial testnet funding (e.g., server costs for custom nodes).
 - **Collaborators**: Web3 devs (Solidity, Rust), UI/UX designers, or testers.
-- **How to Contribute**: Open an issue, submit a PR, or contact me at [your-email@example.com / @yourXhandle].
+- **How to Contribute**: Open an issue, submit a PR, or contact me at [barnazaka@gmail.com.com / @yBTZ_0x Xhandle].
 
 ## Vision
 B-Wallet isn’t just a wallet—it’s a gateway to a self-sovereign Web3, rooted in Ontology’s powerful DID framework. Join us to redefine how users and developers interact with the decentralized web!

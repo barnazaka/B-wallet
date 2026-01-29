@@ -1,7 +1,7 @@
 # B-Wallet: Ontology DID-Powered Non-Custodial Web3 Wallet
 
 **Empowering Users with Seamless, Private, and Secure Web3 Access**
-
+m
 ## Introduction
 Web3 promises decentralization, but users still wrestle with clunky authentication, privacy risks, and fragmented asset management. B-Wallet is a non-custodial, DID-powered wallet built on Ontology, simplifying logins, ensuring user control over data and assets, and bridging multiple blockchains—all in one sleek Chrome extension (with mobile plans ahead).
 

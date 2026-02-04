@@ -1,4 +1,4 @@
-# B-Wallet: Ontology DID-Powered Non-Custodial Web3 Wallet000
+# B-Wallet: Ontology DID-Powered Non-Custodial Web3 Wallet00
 
 **Empowering Users with Seamless, Private, and Secure Web3 Access**
 
